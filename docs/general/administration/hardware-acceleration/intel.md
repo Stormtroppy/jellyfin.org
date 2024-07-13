@@ -95,7 +95,7 @@ Do not use models of Intel processors ending with "F" - those do not have an int
 
 :::
 
-Quick Sync Video support can be checked via the [Intel ark website](https://ark.intel.com/content/www/us/en/ark.html) prior to buying a new GPU suitable for hardware acceleration.
+Quick Sync Video support can be checked via the [Intel arc website](https://ark.intel.com/content/www/us/en/ark.html) prior to buying a new GPU suitable for hardware acceleration.
 
 ### Transcode H.264
 
